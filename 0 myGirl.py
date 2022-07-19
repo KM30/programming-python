@@ -191,7 +191,7 @@ def endWords():
     turtle.seth(0)
     turtle.speed(3)
     turtle.pencolor('red')
-    turtle.write("@郑英豪",font=('Arial',9,'normal'))
+    turtle.write("@YouBoy",font=('Arial',9,'normal'))
 
 def myGirl():
     #draw 'My'
